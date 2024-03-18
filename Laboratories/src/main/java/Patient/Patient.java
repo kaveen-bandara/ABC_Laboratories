@@ -13,7 +13,7 @@ public class Patient {
     @Id
     private ObjectId id;
     private String patientId;
-    private String firstNamee;
+    private String firstName;
     private String lastname;
     private String gender;
     private String birthDate;
